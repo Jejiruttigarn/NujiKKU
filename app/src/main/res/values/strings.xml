@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NujiKKU</string>
+    <string name="Signin">sign in</string>
+    <string name="Signup">sign up</string>
+</resources>
