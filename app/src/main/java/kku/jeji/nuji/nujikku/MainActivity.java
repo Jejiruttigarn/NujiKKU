@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Bind Widget หรือ การผูก widget กับตัวแปล
         signInButton = (Button) findViewById(R.id.button);
-        signUpButton= (Button) findViewById(R.id.button);
+        signUpButton= (Button) findViewById(R.id.button2);
 
         // Sign Up Controlier
         signUpButton.setOnClickListener(new View.OnClickListener() {
